@@ -41,6 +41,7 @@
 /admin.html   {status=200}    {root_only}
 /login.php    {status=200}    {tag="type="password""}    {root_only}
 /login.do     {status=200}    {tag="type="password""}    {root_only}
+/douchat/index.php?s=/User/Public/login   {status=200}    {tag="/douchat/Public/Admin/"}
 
 
 # db config
