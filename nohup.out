@@ -1,0 +1,822 @@
+[11:19:53] Batch web scan start.
+[11:19:53] Report thread created, prepare target Queue...
+[11:19:53] Invalid domain: http://mail.yqb.com
+[11:19:53] Invalid domain: http://smtp.yqb.com
+[11:19:54] Invalid domain: http://biz.1qianbao.com
+[11:19:54] Invalid domain: http://d.uat.1qianbao.com
+[11:19:54] Invalid domain: http://messagegw.uat.1qianbao.com
+[11:19:54] Invalid domain: http://ms.uat.1qianbao.com
+[11:19:54] Invalid domain: http://pcp.1qianbao.com
+[11:19:54] Invalid domain: http://mkbile.1qianbao.com
+[11:19:54] Invalid domain: http://cashier.uat.1qianbao.com
+[11:19:54] Invalid domain: http://caps.uat.1qianbao.com
+[11:19:54] Invalid domain: http://test2-cashier.stg.1qianbao.com
+[11:19:54] Invalid domain: http://test2-ms.1qianbao.com
+[11:19:54] Invalid domain: http://test2-www.1qianbao.com
+[11:19:55] Invalid domain: https://mail.yqb.com
+[11:19:55] Invalid domain: http://www.uat.1qianbao.com
+[11:19:55] Invalid domain: http://mobile.uat.1qianbao.com
+[11:19:55] Invalid domain: https://smtp.yqb.com
+[11:19:55] Invalid domain: https://biz.1qianbao.com
+[11:19:55] Invalid domain: https://caps.uat.1qianbao.com
+[11:19:55] Invalid domain: https://cashier.uat.1qianbao.com
+[11:19:55] Invalid domain: https://d.uat.1qianbao.com
+[11:19:55] Invalid domain: https://pcp.1qianbao.com
+[11:19:55] Invalid domain: https://mkbile.1qianbao.com
+[11:19:55] Invalid domain: https://messagegw.uat.1qianbao.com
+[11:19:55] Invalid domain: https://mobile.uat.1qianbao.com
+[11:19:55] Invalid domain: https://ms.uat.1qianbao.com
+[11:19:55] Invalid domain: https://test2-cashier.stg.1qianbao.com
+[11:19:55] Invalid domain: https://static.uat.1qianbao.com
+[11:19:55] Invalid domain: https://test2-ms.1qianbao.com
+[11:19:55] Invalid domain: https://test2-www.1qianbao.com
+[11:19:55] Invalid domain: https://www.uat.1qianbao.com
+[11:19:55] Invalid domain: http://static.uat.1qianbao.com
+[11:19:56] 426 targets entered Queue.
+[11:19:56] Create 30 sub Processes...
+[11:20:02] Scan web: http://ocsinst.yqb.com
+[11:21:39] Scan web: http://test-open.stg.yqb.com
+[11:23:55] Scan web: http://icon.1qianbao.com
+[11:26:50] [Warning] Fail to connect to test-stable-avms.stg.1qianbao.com:80
+[11:26:50] Scan with user scripts: test-stable-avms.stg.1qianbao.com
+[11:27:38] Scan web: http://test1-business.stg.1qianbao.com
+[+] [200] http://test1-business.stg.1qianbao.com/services/
+[+] [302] http://test1-business.stg.1qianbao.com/WEB-INF/classes
+[+] [302] http://test1-business.stg.1qianbao.com/WEB-INF
+[11:29:54] Scan web: http://test3-avms.stg.1qianbao.com
+[11:32:32] Scan web: http://test2-rvl.stg.1qianbao.com
+[11:34:41] Scan web: https://catapi.yqb.com
+[11:36:56] Scan web: https://test-biz.stg.yqb.com
+[11:39:16] Scan web: https://ocr-rbc.yqb.com
+[11:42:17] Scan web: https://teststable-mchtmng.stg.yqb.com
+[11:44:39] Scan web: https://d-uat.1qianbao.com
+[11:47:03] Scan web: https://mobile.1qianbao.com
+[11:49:41] Scan web: https://test-scancode.stg.1qianbao.com
+[11:51:58] Scan web: https://test2-qbs.stg.1qianbao.com
+[11:54:14] [Warning] Fail to connect to test3-map.stg.1qianbao.com:443
+[11:54:14] Scan with user scripts: test3-map.stg.1qianbao.com
+[11:54:45] Scan web: https://test5-business.stg.1qianbao.com
+[+] [200] https://test5-business.stg.1qianbao.com/services/
+[+] [302] https://test5-business.stg.1qianbao.com/WEB-INF
+[+] [302] https://test5-business.stg.1qianbao.com/WEB-INF/classes
+[11:56:59] Scan web: https://test5-www.stg.1qianbao.com
+[+] [200] https://test5-www.stg.1qianbao.com/services/
+[+] [302] https://test5-www.stg.1qianbao.com/WEB-INF/classes
+[+] [302] https://test5-www.stg.1qianbao.com/WEB-INF
+[11:20:02] Scan web: http://qrpay.yqb.com
+[+] [200] http://qrpay.yqb.com/readme
+[11:22:20] Scan web: http://cardholderservice.1qianbao.com
+[11:24:15] [Warning] Fail to connect to merchant.1qianbao.com:80
+[11:24:15] Scan with user scripts: merchant.1qianbao.com
+[11:25:03] Scan web: http://oauth-uat.1qianbao.com
+[11:27:22] [Warning] Fail to connect to test-ms.1qianbao.com:80
+[11:27:22] Scan with user scripts: test-ms.1qianbao.com
+[11:28:14] [Warning] Fail to connect to test-yum.1qianbao.com:80
+[11:28:14] Scan with user scripts: test-yum.1qianbao.com
+[11:29:03] Scan web: http://test2-flk.1qianbao.com
+[11:31:12] Scan web: http://test2-scancode.stg.1qianbao.com
+[11:33:27] Scan web: http://test5-oauth.stg.1qianbao.com
+[11:35:47] Scan web: http://yum.1qianbao.com
+[11:37:49] [Warning] Fail to connect to test1-m.stg.yqb.com:443
+[11:37:49] Scan with user scripts: test1-m.stg.yqb.com
+[11:38:19] Scan web: https://test2-mzone.stg.yqb.com
+[+] [200] https://test2-mzone.stg.yqb.com/readme
+[11:40:40] Scan web: https://test3-mchtmng.stg.yqb.com
+[11:43:24] [Warning] Fail to connect to 1dc.1qianbao.com:443
+[11:43:24] Scan with user scripts: 1dc.1qianbao.com
+[11:44:17] [Warning] Fail to connect to mail.1qianbao.com:443
+[11:44:17] Scan with user scripts: mail.1qianbao.com
+[11:45:06] Scan web: https://mcm-uat.1qianbao.com
+[11:47:28] Scan web: https://ppe-ubasweb.1qianbao.com
+[11:50:25] Scan web: https://test-stable-oauth.stg.1qianbao.com
+[+] [200] https://test-stable-oauth.stg.1qianbao.com/services/
+[11:52:38] Scan web: https://test2-ssr.stg.1qianbao.com
+[11:54:54] Scan web: https://test3-ms2.stg.1qianbao.com
+[+] [301] https://test3-ms2.stg.1qianbao.com/test
+[+] [301] https://test3-ms2.stg.1qianbao.com/test
+[+] [301] https://test3-ms2.stg.1qianbao.com/ueditor
+[+] [301] https://test3-ms2.stg.1qianbao.com/backup
+[11:57:33] Scan web: https://teststable-oauth.stg.1qianbao.com
+[11:20:02] Scan web: http://about.yqb.com
+[+] [206] http://about.yqb.com/.bashrc
+[+] [206] http://about.yqb.com/.bash_logout
+[+] [206] http://about.yqb.com/.bash_profile
+[+] [206] http://about.yqb.com/readme.html
+[11:21:50] Scan web: http://test3-catapi.stg.yqb.com
+[11:24:21] Scan web: http://test3-biz.stg.yqb.com
+[11:27:18] Scan web: http://test-stable-plugin.stg.1qianbao.com
+[11:47:33] [ERROR] Timed out task: test-stable-plugin.stg.1qianbao.com
+[11:47:36] Scan web: https://plugin.1qianbao.com
+[11:49:48] Scan web: https://test1-business.stg.1qianbao.com
+[+] [200] https://test1-business.stg.1qianbao.com/services/
+[+] [302] https://test1-business.stg.1qianbao.com/WEB-INF/classes
+[+] [302] https://test1-business.stg.1qianbao.com/WEB-INF
+[11:52:14] Scan web: https://test2-mpmt.stg.1qianbao.com
+[11:54:33] Scan web: https://test3-business.stg.1qianbao.com
+[11:57:17] Scan web: https://ubasweb.1qianbao.com
+[+] [200] https://ubasweb.1qianbao.com/readme
+[11:20:02] Scan web: http://test-m.stg.yqb.com
+[+] [301] http://test-m.stg.yqb.com/config
+[11:22:42] Scan web: http://gslb.1qianbao.com
+[+] [301] http://gslb.1qianbao.com/ueditor
+[+] [301] http://gslb.1qianbao.com/test
+[+] [301] http://gslb.1qianbao.com/test
+[+] [301] http://gslb.1qianbao.com/backup
+[11:24:35] Scan web: http://jk.1qianbao.com
+[+] [302] http://jk.1qianbao.com/WEB-INF/classes
+[+] [302] http://jk.1qianbao.com/WEB-INF
+[11:27:48] Scan web: http://caps.1qianbao.com
+[11:29:27] Scan web: http://test2-caps.stg.1qianbao.com
+[11:31:46] [Warning] Fail to connect to test2-yum.1qianbao.com:80
+[11:31:46] Scan with user scripts: test2-yum.1qianbao.com
+[11:32:17] Scan web: http://test2-rbc.stg.1qianbao.com
+[11:34:28] Scan web: https://bcenter.yqb.com
+[+] [200] https://bcenter.yqb.com/services/
+[11:36:29] Scan web: https://qrpay.yqb.com
+[+] [200] https://qrpay.yqb.com/readme
+[11:39:00] Scan web: https://test-open.stg.yqb.com
+[11:41:14] Scan web: https://www-uat.yqb.com
+[11:43:38] Scan web: https://cardholderservice.1qianbao.com
+[11:45:35] Scan web: https://messagegw-uat.1qianbao.com
+[11:48:12] [Warning] Fail to connect to stg.1qianbao.com:443
+[11:48:12] Scan with user scripts: stg.1qianbao.com
+[11:49:00] Scan web: https://test-h5.stg.1qianbao.com
+[+] [301] https://test-h5.stg.1qianbao.com/config
+[11:51:27] [Warning] Fail to connect to mobile.dev.1qianbao.com:443
+[11:51:27] Scan with user scripts: mobile.dev.1qianbao.com
+[11:51:58] [Warning] Fail to connect to test2-mobile.1qianbao.com:443
+[11:51:58] Scan with user scripts: test2-mobile.1qianbao.com
+[11:52:29] Scan web: https://test2-rvl.stg.1qianbao.com
+[11:54:39] Scan web: https://test3-www.stg.1qianbao.com
+[11:57:37] Scan web: https://teststable-scancode.stg.1qianbao.com
+[11:20:02] Scan web: http://mzone-uat.yqb.com
+[11:22:42] Scan web: http://test3-mchtmng.stg.yqb.com
+[11:25:24] Scan web: http://mobile-uat.1qianbao.com
+[11:28:45] Scan web: http://test2-mapi.stg.1qianbao.com
+[11:30:54] Scan web: http://h5.1qianbao.com
+[11:33:26] Scan web: http://test3-business.stg.1qianbao.com
+[11:36:10] Scan web: http://teststable-mobile.stg.1qianbao.com
+[11:38:50] [Warning] Fail to connect to ubasweb.1qianbao.com:80
+[11:38:50] Scan with user scripts: ubasweb.1qianbao.com
+[11:39:38] Scan web: https://mchtmng-uat.yqb.com
+[11:42:08] Scan web: https://ssr-uat.yqb.com
+[11:44:40] Scan web: https://crm-pad.1qianbao.com
+[11:51:13] Scan web: https://test2-d.1qianbao.com
+[11:53:23] Scan web: https://test2-oauth.stg.1qianbao.com
+[11:55:36] Scan web: https://test5-oauth.stg.1qianbao.com
+[11:57:55] Scan web: https://yum.1qianbao.com
+[11:20:03] Scan web: http://sdk.yqb.com
+[+] [301] http://sdk.yqb.com/backup
+[+] [301] http://sdk.yqb.com/test
+[+] [301] http://sdk.yqb.com/test
+[+] [301] http://sdk.yqb.com/ueditor
+[11:22:07] Scan web: http://biz.yqb.com
+[11:23:48] Scan web: http://mcm-uat.1qianbao.com
+[11:26:02] Scan web: http://test-mpmt.stg.1qianbao.com
+[11:28:13] [Warning] Fail to connect to test-www.1qianbao.com:80
+[11:28:13] Scan with user scripts: test-www.1qianbao.com
+[11:29:01] Scan web: http://test2-d.stg.1qianbao.com
+[+] [301] http://test2-d.stg.1qianbao.com/test
+[+] [301] http://test2-d.stg.1qianbao.com/test
+[+] [301] http://test2-d.stg.1qianbao.com/backup
+[+] [301] http://test2-d.stg.1qianbao.com/ueditor
+[11:31:23] Scan web: http://test5-d.stg.1qianbao.com
+[+] [301] http://test5-d.stg.1qianbao.com/ueditor
+[+] [301] http://test5-d.stg.1qianbao.com/backup
+[+] [301] http://test5-d.stg.1qianbao.com/test
+[+] [301] http://test5-d.stg.1qianbao.com/test
+[11:33:37] Scan web: http://wechat-uat.1qianbao.com
+[11:53:50] [ERROR] Timed out task: wechat-uat.1qianbao.com
+[11:54:02] [Warning] Fail to connect to test2-yum.1qianbao.com:443
+[11:54:02] Scan with user scripts: test2-yum.1qianbao.com
+[11:54:33] Scan web: https://test3-d2.stg.1qianbao.com
+[+] [301] https://test3-d2.stg.1qianbao.com/backup
+[+] [301] https://test3-d2.stg.1qianbao.com/test
+[+] [301] https://test3-d2.stg.1qianbao.com/test
+[+] [301] https://test3-d2.stg.1qianbao.com/ueditor
+[11:57:08] Scan web: https://teststable-mobile.stg.1qianbao.com
+[11:59:34] [Warning] Fail to connect to stg.1qianbao.com:80
+[11:59:34] Scan with user scripts: stg.1qianbao.com
+[11:20:02] Scan web: http://test5-mchtmng.stg.yqb.com
+[11:40:21] [ERROR] Timed out task: test5-mchtmng.stg.yqb.com
+[11:40:21] Scan web: https://ocsinst-uat.yqb.com
+[11:42:51] [Warning] Fail to connect to business-uat.1qianbao.com:443
+[11:42:51] Scan with user scripts: business-uat.1qianbao.com
+[11:43:22] Scan web: https://caps-uat.1qianbao.com
+[11:45:41] Scan web: https://oauth-uat.1qianbao.com
+[11:48:18] Scan web: https://test-ms2.stg.1qianbao.com
+[+] [301] https://test-ms2.stg.1qianbao.com/ueditor
+[+] [301] https://test-ms2.stg.1qianbao.com/backup
+[+] [301] https://test-ms2.stg.1qianbao.com/test
+[+] [301] https://test-ms2.stg.1qianbao.com/test
+[11:50:43] Scan web: https://test1-static.stg.1qianbao.com
+[11:52:56] Scan web: https://test2-ms.stg.1qianbao.com
+[+] [301] https://test2-ms.stg.1qianbao.com/test
+[+] [301] https://test2-ms.stg.1qianbao.com/test
+[+] [301] https://test2-ms.stg.1qianbao.com/ueditor
+[+] [301] https://test2-ms.stg.1qianbao.com/backup
+[11:55:12] Scan web: https://test3-ms.stg.1qianbao.com
+[+] [301] https://test3-ms.stg.1qianbao.com/ueditor
+[+] [301] https://test3-ms.stg.1qianbao.com/test
+[+] [301] https://test3-ms.stg.1qianbao.com/test
+[+] [301] https://test3-ms.stg.1qianbao.com/backup
+[11:57:53] Scan web: https://www-uat.1qianbao.com
+[+] [200] https://www-uat.1qianbao.com/services/
+[11:20:02] Scan web: http://ssr.yqb.com
+[11:22:00] Scan web: http://mobile.yqb.com
+[11:24:22] Scan web: http://mx172.1qianbao.com
+[11:31:52] Scan web: http://test3-www.stg.1qianbao.com
+[11:34:10] Scan web: http://teststable-d2.stg.1qianbao.com
+[+] [206] http://teststable-d2.stg.1qianbao.com/.bash_history
+[+] [301] http://teststable-d2.stg.1qianbao.com/config
+[+] [301] http://teststable-d2.stg.1qianbao.com/tmp
+[+] [301] http://teststable-d2.stg.1qianbao.com/tmp
+[11:36:27] Scan web: https://m-uat.yqb.com
+[11:38:57] Scan web: http://ubas.1qianbao.com
+[11:42:55] Scan web: https://business.1qianbao.com
+[11:45:37] Scan web: http://test3-www.stg.yqb.com
+[11:48:35] Scan web: https://test-mobile.stg.1qianbao.com
+[11:51:06] Scan web: https://test2-d.stg.1qianbao.com
+[+] [301] https://test2-d.stg.1qianbao.com/ueditor
+[+] [301] https://test2-d.stg.1qianbao.com/test
+[+] [301] https://test2-d.stg.1qianbao.com/test
+[+] [301] https://test2-d.stg.1qianbao.com/backup
+[11:53:22] Scan web: https://test2-h5.stg.1qianbao.com
+[+] [301] https://test2-h5.stg.1qianbao.com/config
+[+] [301] https://test2-h5.stg.1qianbao.com/test
+[+] [301] https://test2-h5.stg.1qianbao.com/test
+[11:55:36] Scan web: https://test5-d2.stg.1qianbao.com
+[+] [301] https://test5-d2.stg.1qianbao.com/backup
+[+] [301] https://test5-d2.stg.1qianbao.com/ueditor
+[+] [301] https://test5-d2.stg.1qianbao.com/test
+[+] [301] https://test5-d2.stg.1qianbao.com/test
+[11:57:52] Scan web: https://www.1qianbao.com
+[+] [200] https://www.1qianbao.com/services/
+[11:20:02] Scan web: http://m-uat.yqb.com
+[11:22:43] [Warning] Fail to connect to 1dc.1qianbao.com:80
+[11:22:43] Scan with user scripts: 1dc.1qianbao.com
+[11:23:32] Scan web: http://messagegw.1qianbao.com
+[+] [302] http://messagegw.1qianbao.com/WEB-INF/classes
+[+] [302] http://messagegw.1qianbao.com/WEB-INF
+[11:25:16] [Warning] Fail to connect to tes5-www.stg.1qianbao.com:80
+[11:25:16] Scan with user scripts: tes5-www.stg.1qianbao.com
+[11:26:04] Scan web: http://test-ms2.stg.1qianbao.com
+[+] [301] http://test-ms2.stg.1qianbao.com/test
+[+] [301] http://test-ms2.stg.1qianbao.com/test
+[+] [301] http://test-ms2.stg.1qianbao.com/ueditor
+[+] [301] http://test-ms2.stg.1qianbao.com/backup
+[11:28:12] Scan web: http://test-stable-static.stg.1qianbao.com
+[11:48:28] [ERROR] Timed out task: test-stable-static.stg.1qianbao.com
+[11:48:32] Scan web: https://test-cashier.stg.1qianbao.com
+[11:51:01] Scan web: https://test2-caps.stg.1qianbao.com
+[11:53:14] [Warning] Fail to connect to mobile.dev.1qianbao.com:80
+[11:53:14] Scan with user scripts: mobile.dev.1qianbao.com
+[11:53:45] Scan web: https://test2-www.stg.1qianbao.com
+[+] [200] https://test2-www.stg.1qianbao.com/services/
+[+] [302] https://test2-www.stg.1qianbao.com/WEB-INF/classes
+[+] [302] https://test2-www.stg.1qianbao.com/WEB-INF
+[11:56:16] Scan web: https://test5-ocs.stg.1qianbao.com
+[11:58:31] Scan web: https://test2-d2.stg.1qianbao.com
+[+] [301] https://test2-d2.stg.1qianbao.com/ueditor
+[+] [301] https://test2-d2.stg.1qianbao.com/backup
+[+] [301] https://test2-d2.stg.1qianbao.com/test
+[+] [301] https://test2-d2.stg.1qianbao.com/test
+[11:20:02] Scan web: http://test3-mzone.stg.yqb.com
+[11:23:07] Scan web: http://www.yqb.com
+[11:25:12] Scan web: http://mapi.1qianbao.com
+[11:27:07] [Warning] Fail to connect to test-mpush.1qianbao.com:80
+[11:27:07] Scan with user scripts: test-mpush.1qianbao.com
+[11:27:38] Scan web: http://test-stable-ms.stg.1qianbao.com
+[11:47:56] [ERROR] Timed out task: test-stable-ms.stg.1qianbao.com
+[11:48:02] Scan web: http://mpush.1qianbao.com
+[11:49:52] Scan web: https://test-d.stg.1qianbao.com
+[+] [301] https://test-d.stg.1qianbao.com/test
+[+] [301] https://test-d.stg.1qianbao.com/test
+[+] [301] https://test-d.stg.1qianbao.com/backup
+[+] [301] https://test-d.stg.1qianbao.com/ueditor
+[11:52:12] Scan web: https://test2-mobile.stg.1qianbao.com
+[+] [401] https://test2-mobile.stg.1qianbao.com/manager/html
+[+] [200] https://test2-mobile.stg.1qianbao.com/examples/servlets/servlet/SessionExample
+[+] [302] https://test2-mobile.stg.1qianbao.com/manager
+[11:54:31] Scan web: https://test2-static.stg.1qianbao.com
+[11:56:44] Scan web: http://dev.1qianbao.com
+[11:20:02] Scan web: http://oia.yqb.com
+[11:21:47] Scan web: http://msap.yqb.com
+[11:23:45] Scan web: http://d-uat.1qianbao.com
+[+] [301] http://d-uat.1qianbao.com/test
+[+] [301] http://d-uat.1qianbao.com/test
+[+] [301] http://d-uat.1qianbao.com/ueditor
+[11:25:59] [Warning] Fail to connect to test-crm-pad.1qianbao.com:80
+[11:25:59] Scan with user scripts: test-crm-pad.1qianbao.com
+[11:26:48] Scan web: http://test-stable-h5.stg.1qianbao.com
+[11:47:05] [ERROR] Timed out task: test-stable-h5.stg.1qianbao.com
+[11:47:06] Scan web: https://mpush-4b.1qianbao.com
+[11:49:17] Scan web: https://mpush.1qianbao.com
+[11:51:10] Scan web: https://test2-ccdc.stg.1qianbao.com
+[11:53:27] Scan web: https://test3-mobile.stg.1qianbao.com
+[11:55:48] Scan web: https://test5-h5.stg.1qianbao.com
+[+] [301] https://test5-h5.stg.1qianbao.com/config
+[+] [301] https://test5-h5.stg.1qianbao.com/test
+[+] [301] https://test5-h5.stg.1qianbao.com/test
+[11:58:01] Scan web: https://zjsource.1qianbao.com
+[11:20:03] Scan web: http://test3-open.stg.yqb.com
+[11:22:56] Scan web: http://test3-m.stg.yqb.com
+[+] [301] http://test3-m.stg.yqb.com/config
+[+] [301] http://test3-m.stg.yqb.com/test
+[+] [301] http://test3-m.stg.yqb.com/test
+[11:25:44] Scan web: http://test-h5.stg.1qianbao.com
+[+] [301] http://test-h5.stg.1qianbao.com/config
+[11:27:58] Scan web: http://test-static.stg.1qianbao.com
+[+] [200] http://test-static.stg.1qianbao.com/services/
+[+] [302] http://test-static.stg.1qianbao.com/WEB-INF
+[+] [302] http://test-static.stg.1qianbao.com/WEB-INF/classes
+[11:30:36] Scan web: http://test2-ms.stg.1qianbao.com
+[+] [301] http://test2-ms.stg.1qianbao.com/test
+[+] [301] http://test2-ms.stg.1qianbao.com/test
+[+] [301] http://test2-ms.stg.1qianbao.com/ueditor
+[+] [301] http://test2-ms.stg.1qianbao.com/backup
+[11:32:42] Scan web: http://teststable-ms.stg.1qianbao.com
+[+] [206] http://teststable-ms.stg.1qianbao.com/.bash_history
+[+] [301] http://teststable-ms.stg.1qianbao.com/config
+[+] [301] http://teststable-ms.stg.1qianbao.com/tmp
+[+] [301] http://teststable-ms.stg.1qianbao.com/tmp
+[11:34:53] Scan web: http://jiankang.1qianbao.com
+[+] [302] http://jiankang.1qianbao.com/WEB-INF
+[+] [302] http://jiankang.1qianbao.com/WEB-INF/classes
+[11:37:33] Scan web: https://test-m.stg.yqb.com
+[+] [301] https://test-m.stg.yqb.com/config
+[11:39:46] Scan web: https://test2-mchtmng.stg.yqb.com
+[11:41:57] Scan web: https://test5-mzone.stg.yqb.com
+[11:44:14] Scan web: https://ccdc.1qianbao.com
+[11:46:07] Scan web: https://h5.1qianbao.com
+[11:48:20] Scan web: https://test-caps.stg.1qianbao.com
+[+] [200] https://test-caps.stg.1qianbao.com/services/
+[+] [302] https://test-caps.stg.1qianbao.com/WEB-INF/classes
+[+] [302] https://test-caps.stg.1qianbao.com/WEB-INF
+[11:51:14] Scan web: https://test2-business.stg.1qianbao.com
+[+] [200] https://test2-business.stg.1qianbao.com/services/
+[+] [302] https://test2-business.stg.1qianbao.com/WEB-INF/classes
+[+] [302] https://test2-business.stg.1qianbao.com/WEB-INF
+[11:53:36] Scan web: https://test3-oauth.stg.1qianbao.com
+[11:56:28] Scan web: https://test5-ssr.stg.1qianbao.com
+[11:58:44] Scan web: https://teststable-m.stg.yqb.com
+[+] [301] https://teststable-m.stg.yqb.com/manager
+[+] [301] https://teststable-m.stg.yqb.com/config
+[11:20:02] Scan web: http://efunds.yqb.com
+[11:21:45] Scan web: http://test5-m.stg.yqb.com
+[+] [301] http://test5-m.stg.yqb.com/config
+[+] [301] http://test5-m.stg.yqb.com/test
+[+] [301] http://test5-m.stg.yqb.com/test
+[11:24:09] [Warning] Fail to connect to mail.1qianbao.com:80
+[11:24:09] Scan with user scripts: mail.1qianbao.com
+[11:24:57] Scan web: http://static-uat.1qianbao.com
+[11:27:30] Scan web: http://test-stable-d.stg.1qianbao.com
+[11:47:32] [ERROR] Timed out task: test-stable-d.stg.1qianbao.com
+[11:47:33] Scan web: https://www.yqb.com
+[11:49:19] [Warning] Fail to connect to test-mpmt.1qianbao.com:443
+[11:49:19] Scan with user scripts: test-mpmt.1qianbao.com
+[11:50:07] Scan web: https://test-stable-business.stg.1qianbao.com
+[11:52:22] Scan web: https://test2-mapi.stg.1qianbao.com
+[11:54:33] Scan web: https://test3-d.stg.1qianbao.com
+[+] [301] https://test3-d.stg.1qianbao.com/backup
+[+] [301] https://test3-d.stg.1qianbao.com/test
+[+] [301] https://test3-d.stg.1qianbao.com/test
+[+] [301] https://test3-d.stg.1qianbao.com/ueditor
+[11:57:07] Scan web: https://ubas.1qianbao.com
+[11:20:02] Scan web: http://mzone.yqb.com
+[+] [401] http://mzone.yqb.com/manager/html
+[+] [302] http://mzone.yqb.com/manager
+[11:21:53] Scan web: http://1dc.yqb.com
+[11:23:44] [Warning] Fail to connect to ccdc.1qianbao.com:80
+[11:23:44] Scan with user scripts: ccdc.1qianbao.com
+[11:24:34] Scan web: http://business.1qianbao.com
+[11:27:42] Scan web: http://test-stable-oauth.stg.1qianbao.com
+[+] [200] http://test-stable-oauth.stg.1qianbao.com/services/
+[11:29:47] Scan web: http://test2-mchtmng.stg.yqb.com
+[11:31:59] Scan web: http://test2-static.stg.1qianbao.com
+[11:34:11] Scan web: http://test5-ssr.stg.1qianbao.com
+[11:36:39] Scan web: http://teststable-scancode.stg.1qianbao.com
+[11:38:55] Scan web: https://test2-www.stg.yqb.com
+[11:41:09] Scan web: https://test3-mzone.stg.yqb.com
+[11:44:00] Scan web: https://ccdc-uat.1qianbao.com
+[11:46:12] Scan web: https://flk.1qianbao.com
+[11:48:36] Scan web: https://test-oauth.stg.1qianbao.com
+[11:51:16] Scan web: https://test2-avms.stg.1qianbao.com
+[11:53:32] Scan web: https://test3-h5.stg.1qianbao.com
+[+] [301] https://test3-h5.stg.1qianbao.com/config
+[+] [301] https://test3-h5.stg.1qianbao.com/test
+[+] [301] https://test3-h5.stg.1qianbao.com/test
+[11:56:09] [Warning] Fail to connect to test5-mpush.1qianbao.com:443
+[11:56:09] Scan with user scripts: test5-mpush.1qianbao.com
+[11:56:40] Scan web: https://test5-mobile.stg.1qianbao.com
+[11:58:56] Scan web: http://test-avms.stg.1qianbao.com
+[11:20:02] Scan web: http://test-biz.stg.yqb.com
+[11:22:54] Scan web: http://catapi.yqb.com
+[11:24:57] Scan web: http://scancode.1qianbao.com
+[11:27:04] Scan web: http://test-mobile.stg.1qianbao.com
+[11:29:12] Scan web: http://test2-h5.stg.1qianbao.com
+[+] [301] http://test2-h5.stg.1qianbao.com/test
+[+] [301] http://test2-h5.stg.1qianbao.com/test
+[+] [301] http://test2-h5.stg.1qianbao.com/config
+[11:31:25] Scan web: http://test2-ssr.stg.1qianbao.com
+[11:33:37] [Warning] Fail to connect to test3-map.stg.1qianbao.com:80
+[11:33:37] Scan with user scripts: test3-map.stg.1qianbao.com
+[11:34:09] Scan web: http://test5-ms.stg.1qianbao.com
+[+] [301] http://test5-ms.stg.1qianbao.com/backup
+[+] [301] http://test5-ms.stg.1qianbao.com/ueditor
+[+] [301] http://test5-ms.stg.1qianbao.com/test
+[+] [301] http://test5-ms.stg.1qianbao.com/test
+[11:36:26] Scan web: https://oia.yqb.com
+[11:38:25] Scan web: https://test2-biz.stg.yqb.com
+[11:40:43] Scan web: https://sdk.yqb.com
+[11:42:34] Scan web: https://teststable-mzone.stg.yqb.com
+[11:44:59] Scan web: https://h5-uat.1qianbao.com
+[11:47:27] [Warning] Fail to connect to dev.1qianbao.com:443
+[11:47:27] Scan with user scripts: dev.1qianbao.com
+[11:48:20] [Warning] Fail to connect to tes5-www.stg.1qianbao.com:443
+[11:48:20] Scan with user scripts: tes5-www.stg.1qianbao.com
+[11:49:13] [Warning] Fail to connect to test-mapi.1qianbao.com:443
+[11:49:13] Scan with user scripts: test-mapi.1qianbao.com
+[11:50:02] [Warning] Fail to connect to test-mpush.1qianbao.com:443
+[11:50:02] Scan with user scripts: test-mpush.1qianbao.com
+[11:50:37] [Warning] Fail to connect to test1-static.1qianbao.com:443
+[11:50:37] Scan with user scripts: test1-static.1qianbao.com
+[11:51:26] Scan web: https://test-static.stg.1qianbao.com
+[+] [200] https://test-static.stg.1qianbao.com/services/
+[+] [302] https://test-static.stg.1qianbao.com/WEB-INF/classes
+[+] [302] https://test-static.stg.1qianbao.com/WEB-INF
+[11:53:55] Scan web: https://test3-static.stg.1qianbao.com
+[11:56:32] Scan web: https://test5-ms.stg.1qianbao.com
+[+] [301] https://test5-ms.stg.1qianbao.com/backup
+[+] [301] https://test5-ms.stg.1qianbao.com/test
+[+] [301] https://test5-ms.stg.1qianbao.com/test
+[+] [301] https://test5-ms.stg.1qianbao.com/ueditor
+[11:58:51] Scan web: https://test-avms.stg.1qianbao.com
+[11:20:03] Scan web: http://ocr-rbc.yqb.com
+[11:22:30] Scan web: http://test2-biz.stg.yqb.com
+[11:24:59] Scan web: http://static.1qianbao.com
+[11:27:51] [Warning] Fail to connect to test1-static.1qianbao.com:80
+[11:27:51] Scan with user scripts: test1-static.1qianbao.com
+[11:28:40] Scan web: http://test1-static.stg.1qianbao.com
+[11:30:57] Scan web: http://test3-mcm.stg.1qianbao.com
+[11:33:09] [Warning] Fail to connect to test5-mpush.1qianbao.com:80
+[11:33:09] Scan with user scripts: test5-mpush.1qianbao.com
+[11:33:40] Scan web: http://test5-business.stg.1qianbao.com
+[+] [200] http://test5-business.stg.1qianbao.com/services/
+[+] [302] http://test5-business.stg.1qianbao.com/WEB-INF
+[+] [302] http://test5-business.stg.1qianbao.com/WEB-INF/classes
+[11:36:38] Scan web: https://mzone.yqb.com
+[11:38:32] Scan web: https://test3-biz.stg.yqb.com
+[11:41:12] Scan web: https://test3-www.stg.yqb.com
+[11:44:00] Scan web: https://cashier.1qianbao.com
+[11:46:34] [Warning] Fail to connect to merchant.1qianbao.com:443
+[11:46:34] Scan with user scripts: merchant.1qianbao.com
+[11:47:25] Scan web: https://mx172.1qianbao.com
+[11:50:43] Scan web: https://ms.1qianbao.com
+[11:52:44] Scan web: https://test2-scancode.stg.1qianbao.com
+[11:54:54] Scan web: https://test3-mcm.stg.1qianbao.com
+[11:57:07] Scan web: https://teststable-h5.stg.1qianbao.com
+[+] [301] https://teststable-h5.stg.1qianbao.com/manager
+[+] [301] https://teststable-h5.stg.1qianbao.com/config
+[11:59:27] Scan web: http://test-caps.1qianbao.com
+[11:20:02] Scan web: http://teststable-gms.stg.yqb.com
+[11:22:33] Scan web: http://bcenter.yqb.com
+[+] [200] http://bcenter.yqb.com/services/
+[11:24:30] [Warning] Fail to connect to oauth.1qianbao.com:80
+[11:24:30] Scan with user scripts: oauth.1qianbao.com
+[11:25:19] Scan web: http://ubaslog.yqb.com
+[11:28:51] [Warning] Fail to connect to test2-crm-pad.stg.1qianbao.com:80
+[11:28:51] Scan with user scripts: test2-crm-pad.stg.1qianbao.com
+[11:29:22] Scan web: http://test2-mpush.1qianbao.com
+[+] [206] http://test2-mpush.1qianbao.com/.htaccess
+[+] [301] http://test2-mpush.1qianbao.com/admin
+[11:31:55] Scan web: http://test3-h5.stg.1qianbao.com
+[+] [301] http://test3-h5.stg.1qianbao.com/config
+[+] [301] http://test3-h5.stg.1qianbao.com/test
+[+] [301] http://test3-h5.stg.1qianbao.com/test
+[11:34:40] Scan web: https://avms-uat.yqb.com
+[11:54:50] [ERROR] Timed out task: avms-uat.yqb.com
+[11:55:03] Scan web: https://test2-flk.1qianbao.com
+[11:57:14] Scan web: https://teststable-ms.stg.1qianbao.com
+[+] [206] https://teststable-ms.stg.1qianbao.com/.bash_history
+[+] [301] https://teststable-ms.stg.1qianbao.com/config
+[+] [301] https://teststable-ms.stg.1qianbao.com/tmp
+[+] [301] https://teststable-ms.stg.1qianbao.com/tmp
+[11:59:32] Scan web: http://teststable-m.stg.yqb.com
+[+] [301] http://teststable-m.stg.yqb.com/manager
+[+] [301] http://teststable-m.stg.yqb.com/config
+[11:20:02] Scan web: http://apmbonree.yqb.com
+[11:21:41] [Warning] Fail to connect to test1-m.stg.yqb.com:80
+[11:21:41] Scan with user scripts: test1-m.stg.yqb.com
+[11:22:15] Scan web: http://teststable-mzone.stg.yqb.com
+[11:24:36] Scan web: http://mobile.1qianbao.com
+[11:26:44] Scan web: http://test-d.stg.1qianbao.com
+[+] [301] http://test-d.stg.1qianbao.com/test
+[+] [301] http://test-d.stg.1qianbao.com/test
+[+] [301] http://test-d.stg.1qianbao.com/ueditor
+[+] [301] http://test-d.stg.1qianbao.com/backup
+[11:28:52] Scan web: http://test2-ccdc.stg.1qianbao.com
+[11:30:59] Scan web: http://test3-static.stg.1qianbao.com
+[11:33:54] [Warning] Fail to connect to 1dc.yqb.com:443
+[11:33:54] Scan with user scripts: 1dc.yqb.com
+[11:34:42] Scan web: https://efunds.yqb.com
+[11:36:44] Scan web: http://test5-mpmt.stg.1qianbao.com
+[11:57:02] [ERROR] Timed out task: test5-mpmt.stg.1qianbao.com
+[11:57:03] Scan web: https://teststable-d2.stg.1qianbao.com
+[+] [206] https://teststable-d2.stg.1qianbao.com/.bash_history
+[+] [301] https://teststable-d2.stg.1qianbao.com/tmp
+[+] [301] https://teststable-d2.stg.1qianbao.com/tmp
+[+] [301] https://teststable-d2.stg.1qianbao.com/config
+[11:59:18] Scan web: https://test-caps.1qianbao.com
+[+] [200] https://test-caps.1qianbao.com/services/
+[+] [302] https://test-caps.1qianbao.com/WEB-INF/classes
+[+] [302] https://test-caps.1qianbao.com/WEB-INF
+[11:20:02] Scan web: http://test-www.stg.yqb.com
+[11:22:56] Scan web: http://1qianbao.com
+[+] [200] http://1qianbao.com/services/
+[+] [302] http://1qianbao.com/WEB-INF/classes
+[+] [302] http://1qianbao.com/WEB-INF
+[11:25:52] Scan web: http://www-uat.yqb.com
+[11:28:33] Scan web: http://test2-business.stg.1qianbao.com
+[+] [200] http://test2-business.stg.1qianbao.com/services/
+[+] [302] http://test2-business.stg.1qianbao.com/WEB-INF/classes
+[+] [302] http://test2-business.stg.1qianbao.com/WEB-INF
+[11:31:01] Scan web: http://test-ms.stg.1qianbao.com
+[+] [301] http://test-ms.stg.1qianbao.com/test
+[+] [301] http://test-ms.stg.1qianbao.com/test
+[+] [301] http://test-ms.stg.1qianbao.com/backup
+[+] [301] http://test-ms.stg.1qianbao.com/ueditor
+[11:33:11] Scan web: http://test5-d2.stg.1qianbao.com
+[+] [301] http://test5-d2.stg.1qianbao.com/test
+[+] [301] http://test5-d2.stg.1qianbao.com/test
+[+] [301] http://test5-d2.stg.1qianbao.com/backup
+[+] [301] http://test5-d2.stg.1qianbao.com/ueditor
+[11:35:24] Scan web: https://msap.yqb.com
+[11:37:40] Scan web: http://www.1qianbao.com
+[+] [200] http://www.1qianbao.com/services/
+[+] [302] http://www.1qianbao.com/WEB-INF
+[+] [302] http://www.1qianbao.com/WEB-INF/classes
+[11:39:54] Scan web: https://test-www.stg.yqb.com
+[11:42:15] Scan web: https://test5-mchtmng.stg.yqb.com
+[12:02:21] [ERROR] Timed out task: test5-mchtmng.stg.yqb.com
+[11:20:02] Scan web: http://test5-biz.stg.yqb.com
+[11:22:44] Scan web: http://cashier.1qianbao.com
+[11:25:18] Scan web: http://mcm.1qianbao.com
+[11:28:16] Scan web: http://test2-d2.stg.1qianbao.com
+[+] [301] http://test2-d2.stg.1qianbao.com/test
+[+] [301] http://test2-d2.stg.1qianbao.com/test
+[+] [301] http://test2-d2.stg.1qianbao.com/ueditor
+[+] [301] http://test2-d2.stg.1qianbao.com/backup
+[11:30:25] Scan web: http://test-ccdc.stg.1qianbao.com
+[11:32:42] Scan web: http://mpush-4b.1qianbao.com
+[11:34:34] Scan web: https://biz.yqb.com
+[11:36:56] Scan web: http://teststable-oauth.stg.1qianbao.com
+[11:39:14] Scan web: https://test3-catapi.stg.yqb.com
+[11:41:30] Scan web: https://test5-biz.stg.yqb.com
+[11:43:54] Scan web: https://cashier-uat.1qianbao.com
+[11:46:16] Scan web: https://mobile-uat.1qianbao.com
+[11:48:39] [Warning] Fail to connect to test-crm-pad.1qianbao.com:443
+[11:48:39] Scan with user scripts: test-crm-pad.1qianbao.com
+[11:49:32] [Warning] Fail to connect to test-yum.1qianbao.com:443
+[11:49:32] Scan with user scripts: test-yum.1qianbao.com
+[11:50:20] Scan web: https://test-stable-ms.stg.1qianbao.com
+[12:10:32] [ERROR] Timed out task: test-stable-ms.stg.1qianbao.com
+[11:20:02] Scan web: http://ocr-rvl.yqb.com
+[11:22:15] Scan web: http://m.yqb.com
+[11:26:34] Scan web: http://caps-uat.1qianbao.com
+[11:29:32] Scan web: http://test2-static.1qianbao.com
+[11:31:49] Scan web: http://test5-mobile.stg.1qianbao.com
+[11:34:07] [Warning] Fail to connect to about.yqb.com:443
+[11:34:07] Scan with user scripts: about.yqb.com
+[11:34:56] Scan web: https://mchtmng.yqb.com
+[11:36:53] Scan web: https://ssr.yqb.com
+[11:38:47] Scan web: https://test-mzone.stg.yqb.com
+[11:41:03] Scan web: https://teststable-ckapi.stg.yqb.com
+[+] [200] https://teststable-ckapi.stg.yqb.com/services/
+[11:43:28] Scan web: http://test5-h5.stg.1qianbao.com
+[+] [301] http://test5-h5.stg.1qianbao.com/test
+[+] [301] http://test5-h5.stg.1qianbao.com/test
+[+] [301] http://test5-h5.stg.1qianbao.com/config
+[11:45:48] Scan web: https://mcm.1qianbao.com
+[11:47:58] Scan web: https://static-uat.1qianbao.com
+[11:50:17] Scan web: https://test-stable-d.stg.1qianbao.com
+[12:10:26] [ERROR] Timed out task: test-stable-d.stg.1qianbao.com
+[11:20:02] Scan web: http://avms-uat.yqb.com
+[11:22:24] Scan web: http://cashier-uat.1qianbao.com
+[11:24:38] Scan web: http://plugin.1qianbao.com
+[11:26:43] Scan web: http://test-oauth.stg.1qianbao.com
+[11:28:48] [Warning] Fail to connect to test2-mobile.1qianbao.com:80
+[11:28:48] Scan with user scripts: test2-mobile.1qianbao.com
+[11:29:19] Scan web: http://ms-uat.1qianbao.com
+[+] [301] http://ms-uat.1qianbao.com/test
+[+] [301] http://ms-uat.1qianbao.com/test
+[+] [301] http://ms-uat.1qianbao.com/ueditor
+[11:32:06] Scan web: http://test3-mobile.stg.1qianbao.com
+[11:34:16] Scan web: https://avms.yqb.com
+[11:36:13] Scan web: https://ocsmweb.yqb.com
+[11:38:15] Scan web: https://test2-m.stg.yqb.com
+[+] [301] https://test2-m.stg.yqb.com/config
+[+] [301] https://test2-m.stg.yqb.com/test
+[+] [301] https://test2-m.stg.yqb.com/test
+[11:40:35] [Warning] Fail to connect to sftp.yqb.com:443
+[11:40:35] Scan with user scripts: sftp.yqb.com
+[11:41:23] Scan web: https://teststable-gms.stg.yqb.com
+[11:43:38] Scan web: https://jiankang.1qianbao.com
+[11:45:49] Scan web: https://messagegw.1qianbao.com
+[11:47:53] Scan web: https://scancode-uat.1qianbao.com
+[11:50:22] Scan web: https://test-stable-plugin.stg.1qianbao.com
+[12:10:38] [ERROR] Timed out task: test-stable-plugin.stg.1qianbao.com
+[11:20:02] Scan web: http://test-mock.stg.yqb.com
+[11:23:06] Scan web: http://test2-mzone.stg.yqb.com
+[+] [200] http://test2-mzone.stg.yqb.com/readme
+[11:25:33] Scan web: http://test-cashier.stg.1qianbao.com
+[11:27:41] Scan web: http://test-stable-www.stg.1qianbao.com
+[11:47:58] [ERROR] Timed out task: test-stable-www.stg.1qianbao.com
+[11:47:59] Scan web: https://scancode.1qianbao.com
+[11:50:32] Scan web: https://test-stable-mobile.stg.1qianbao.com
+[12:10:44] [ERROR] Timed out task: test-stable-mobile.stg.1qianbao.com
+[11:20:02] Scan web: http://test2-www.stg.yqb.com
+[11:22:55] Scan web: http://www.zhaopin.yqb.com
+[11:24:48] [Warning] Fail to connect to ppe-ubasweb.1qianbao.com:80
+[11:24:48] Scan with user scripts: ppe-ubasweb.1qianbao.com
+[11:25:36] Scan web: http://ms.1qianbao.com
+[+] [301] http://ms.1qianbao.com/test
+[+] [301] http://ms.1qianbao.com/test
+[+] [301] http://ms.1qianbao.com/ueditor
+[+] [301] http://ms.1qianbao.com/backup
+[11:27:26] Scan web: http://test-stable-business.stg.1qianbao.com
+[11:29:36] [Warning] Fail to connect to pcp5.stg.1qianbao.com:80
+[11:29:36] Scan with user scripts: pcp5.stg.1qianbao.com
+[11:30:24] Scan web: http://test-stable-mobile.stg.1qianbao.com
+[11:50:42] [ERROR] Timed out task: test-stable-mobile.stg.1qianbao.com
+[11:50:46] Scan web: https://test-stable-h5.stg.1qianbao.com
+[12:11:03] [ERROR] Timed out task: test-stable-h5.stg.1qianbao.com
+[11:20:06] Scan web: http://ocsinst-uat.yqb.com
+[11:22:34] Scan web: http://test2-m.stg.yqb.com
+[+] [301] http://test2-m.stg.yqb.com/config
+[+] [301] http://test2-m.stg.yqb.com/test
+[+] [301] http://test2-m.stg.yqb.com/test
+[11:25:00] Scan web: http://d.1qianbao.com
+[+] [301] http://d.1qianbao.com/test
+[+] [301] http://d.1qianbao.com/test
+[+] [301] http://d.1qianbao.com/ueditor
+[+] [301] http://d.1qianbao.com/backup
+[11:26:16] Scan web: http://test-caps.stg.1qianbao.com
+[11:28:22] Scan web: http://test1-flk.stg.1qianbao.com
+[11:30:29] Scan web: http://test2-mobile.stg.1qianbao.com
+[+] [401] http://test2-mobile.stg.1qianbao.com/manager/html
+[+] [200] http://test2-mobile.stg.1qianbao.com/examples/servlets/servlet/SessionExample
+[+] [302] http://test2-mobile.stg.1qianbao.com/manager
+[11:32:41] Scan web: http://test3-oauth.stg.1qianbao.com
+[11:35:41] Scan web: http://zjsource.1qianbao.com
+[+] [301] http://zjsource.1qianbao.com/test
+[+] [301] http://zjsource.1qianbao.com/test
+[+] [301] http://zjsource.1qianbao.com/ueditor
+[+] [301] http://zjsource.1qianbao.com/backup
+[11:37:38] Scan web: http://www-uat.1qianbao.com
+[11:39:51] Scan web: https://ocr-rvl.yqb.com
+[11:42:45] Scan web: https://1qianbao.com
+[+] [200] https://1qianbao.com/services/
+[11:45:19] Scan web: https://mapi.1qianbao.com
+[11:47:28] [Warning] Fail to connect to test-d.1qianbao.com:443
+[11:47:28] Scan with user scripts: test-d.1qianbao.com
+[11:48:17] Scan web: https://test-ccdc.stg.1qianbao.com
+[11:50:54] Scan web: https://test-stable-www.stg.1qianbao.com
+[12:11:04] [ERROR] Timed out task: test-stable-www.stg.1qianbao.com
+[11:20:02] Scan web: http://ssr-uat.yqb.com
+[11:22:26] Scan web: http://teststable-ckapi.stg.yqb.com
+[+] [200] http://teststable-ckapi.stg.yqb.com/services/
+[11:24:49] Scan web: http://scancode-uat.1qianbao.com
+[11:27:53] Scan web: http://test2-avms.stg.1qianbao.com
+[11:30:04] Scan web: http://test2-oauth.stg.1qianbao.com
+[11:32:23] Scan web: http://test3-ms2.stg.1qianbao.com
+[+] [301] http://test3-ms2.stg.1qianbao.com/backup
+[+] [301] http://test3-ms2.stg.1qianbao.com/test
+[+] [301] http://test3-ms2.stg.1qianbao.com/test
+[+] [301] http://test3-ms2.stg.1qianbao.com/ueditor
+[11:35:03] Scan web: http://teststable-h5.stg.1qianbao.com
+[+] [301] http://teststable-h5.stg.1qianbao.com/config
+[+] [301] http://teststable-h5.stg.1qianbao.com/manager
+[11:37:24] Scan web: https://test-mock.stg.yqb.com
+[11:39:41] Scan web: https://ocsinst.yqb.com
+[11:42:40] Scan web: https://ubaslog.yqb.com
+[11:44:53] Scan web: https://jk.1qianbao.com
+[11:47:06] Scan web: https://ms-uat.1qianbao.com
+[11:50:02] [Warning] Fail to connect to test-stable-avms.stg.1qianbao.com:443
+[11:50:02] Scan with user scripts: test-stable-avms.stg.1qianbao.com
+[11:50:54] [Warning] Fail to connect to test-www.1qianbao.com:443
+[11:50:54] Scan with user scripts: test-www.1qianbao.com
+[11:51:43] Scan web: https://test-stable-static.stg.1qianbao.com
+[12:11:42] [ERROR] Timed out task: test-stable-static.stg.1qianbao.com
+[11:20:06] [Warning] Fail to connect to sftp.yqb.com:80
+[11:20:06] Scan with user scripts: sftp.yqb.com
+[11:20:55] Scan web: http://test5-mzone.stg.yqb.com
+[11:23:28] Scan web: http://messagegw-uat.1qianbao.com
+[11:26:00] Scan web: http://test-mzone.stg.yqb.com
+[11:28:12] Scan web: http://test-www.stg.1qianbao.com
+[11:30:14] Scan web: http://test3-d.stg.1qianbao.com
+[+] [301] http://test3-d.stg.1qianbao.com/backup
+[+] [301] http://test3-d.stg.1qianbao.com/test
+[+] [301] http://test3-d.stg.1qianbao.com/test
+[+] [301] http://test3-d.stg.1qianbao.com/ueditor
+[11:33:07] Scan web: http://test5-ocs.stg.1qianbao.com
+[11:35:24] Scan web: https://mobile.yqb.com
+[11:38:00] Scan web: http://test5-www.stg.1qianbao.com
+[11:40:10] Scan web: https://test5-www.stg.yqb.com
+[11:42:24] Scan web: https://www.zhaopin.yqb.com
+[11:44:18] Scan web: https://d.1qianbao.com
+[11:45:49] Scan web: https://oauth.1qianbao.com
+[11:48:07] [Warning] Fail to connect to test-ms.1qianbao.com:443
+[11:48:07] Scan with user scripts: test-ms.1qianbao.com
+[11:48:54] Scan web: https://test-mapi.stg.1qianbao.com
+[11:51:23] [Warning] Fail to connect to test2-crm-pad.stg.1qianbao.com:443
+[11:51:23] Scan with user scripts: test2-crm-pad.stg.1qianbao.com
+[11:51:55] Scan web: https://test2-mpush.1qianbao.com
+[12:11:59] [ERROR] Timed out task: test2-mpush.1qianbao.com
+[11:20:02] Scan web: http://ocsmweb.yqb.com
+[11:21:57] Scan web: http://teststable-mchtmng.stg.yqb.com
+[11:24:16] Scan web: http://h5-uat.1qianbao.com
+[11:27:20] Scan web: http://test-scancode.stg.1qianbao.com
+[11:29:33] [Warning] Fail to connect to pcp2.stg.1qianbao.com:80
+[11:29:33] Scan with user scripts: pcp2.stg.1qianbao.com
+[11:30:21] Scan web: http://test2-qbs.stg.1qianbao.com
+[11:32:33] Scan web: http://test5-avms.stg.1qianbao.com
+[11:52:50] [ERROR] Timed out task: test5-avms.stg.1qianbao.com
+[11:52:52] Scan web: https://test2-rbc.stg.1qianbao.com
+[11:55:05] Scan web: https://test5-avms.stg.1qianbao.com
+[12:15:44] [ERROR] Timed out task: test5-avms.stg.1qianbao.com
+[11:20:02] Scan web: http://mchtmng-uat.yqb.com
+[11:22:43] [Warning] Fail to connect to business-uat.1qianbao.com:80
+[11:22:43] Scan with user scripts: business-uat.1qianbao.com
+[11:23:19] [Warning] Fail to connect to crm-pad.1qianbao.com:80
+[11:23:19] Scan with user scripts: crm-pad.1qianbao.com
+[11:24:10] Scan web: http://flk.1qianbao.com
+[11:25:59] [Warning] Fail to connect to test-mpmt.1qianbao.com:80
+[11:25:59] Scan with user scripts: test-mpmt.1qianbao.com
+[11:26:47] Scan web: http://test5-www.stg.yqb.com
+[11:28:54] Scan web: http://test2-d.1qianbao.com
+[11:31:01] Scan web: http://test2-www.stg.1qianbao.com
+[11:33:14] Scan web: http://test3-ms.stg.1qianbao.com
+[+] [301] http://test3-ms.stg.1qianbao.com/backup
+[+] [301] http://test3-ms.stg.1qianbao.com/ueditor
+[+] [301] http://test3-ms.stg.1qianbao.com/test
+[+] [301] http://test3-ms.stg.1qianbao.com/test
+[11:36:03] Scan web: https://mzone-uat.yqb.com
+[+] [401] https://mzone-uat.yqb.com/manager/html
+[11:38:27] Scan web: https://test3-m.stg.yqb.com
+[+] [301] https://test3-m.stg.yqb.com/test
+[+] [301] https://test3-m.stg.yqb.com/test
+[+] [301] https://test3-m.stg.yqb.com/config
+[11:41:04] Scan web: https://test3-open.stg.yqb.com
+[11:43:29] Scan web: https://icon.1qianbao.com
+[11:45:21] Scan web: https://gslb.1qianbao.com
+[11:47:14] Scan web: https://static.1qianbao.com
+[11:49:13] Scan web: https://test-mpmt.stg.1qianbao.com
+[11:51:46] Scan web: https://test-www.stg.1qianbao.com
+[+] [200] https://test-www.stg.1qianbao.com/services/
+[+] [302] https://test-www.stg.1qianbao.com/WEB-INF
+[+] [302] https://test-www.stg.1qianbao.com/WEB-INF/classes
+[11:54:15] Scan web: https://test3-avms.stg.1qianbao.com
+[11:56:55] Scan web: https://test5-mpmt.stg.1qianbao.com
+[12:17:02] [ERROR] Timed out task: test5-mpmt.stg.1qianbao.com
+[11:20:02] Scan web: http://mchtmng.yqb.com
+[11:21:45] Scan web: http://avms.yqb.com
+[11:23:29] Scan web: http://ccdc-uat.1qianbao.com
+[11:25:53] [Warning] Fail to connect to test-mapi.1qianbao.com:80
+[11:25:53] Scan with user scripts: test-mapi.1qianbao.com
+[11:26:46] [Warning] Fail to connect to test-d.1qianbao.com:80
+[11:26:46] Scan with user scripts: test-d.1qianbao.com
+[11:27:34] Scan web: http://test-mapi.stg.1qianbao.com
+[11:29:39] Scan web: http://test2-mpmt.stg.1qianbao.com
+[11:31:52] Scan web: http://test3-d2.stg.1qianbao.com
+[+] [301] http://test3-d2.stg.1qianbao.com/backup
+[+] [301] http://test3-d2.stg.1qianbao.com/ueditor
+[+] [301] http://test3-d2.stg.1qianbao.com/test
+[+] [301] http://test3-d2.stg.1qianbao.com/test
+[11:34:37] Scan web: https://apmbonree.yqb.com
+[11:36:31] Scan web: https://m.yqb.com
+[11:41:35] Scan web: https://test5-m.stg.yqb.com
+[+] [301] https://test5-m.stg.yqb.com/config
+[+] [301] https://test5-m.stg.yqb.com/test
+[+] [301] https://test5-m.stg.yqb.com/test
+[11:43:59] Scan web: https://caps.1qianbao.com
+[11:46:25] [Warning] Fail to connect to pcp5.stg.1qianbao.com:443
+[11:46:25] Scan with user scripts: pcp5.stg.1qianbao.com
+[11:47:18] [Warning] Fail to connect to pcp2.stg.1qianbao.com:443
+[11:47:18] Scan with user scripts: pcp2.stg.1qianbao.com
+[11:48:06] Scan web: https://test-ms.stg.1qianbao.com
+[+] [301] https://test-ms.stg.1qianbao.com/ueditor
+[+] [301] https://test-ms.stg.1qianbao.com/test
+[+] [301] https://test-ms.stg.1qianbao.com/test
+[+] [301] https://test-ms.stg.1qianbao.com/backup
+[11:50:52] Scan web: https://test1-flk.stg.1qianbao.com
+[11:53:11] Scan web: https://test2-static.1qianbao.com
+[11:55:24] Scan web: https://test5-d.stg.1qianbao.com
+[+] [301] https://test5-d.stg.1qianbao.com/backup
+[+] [301] https://test5-d.stg.1qianbao.com/test
+[+] [301] https://test5-d.stg.1qianbao.com/test
+[+] [301] https://test5-d.stg.1qianbao.com/ueditor
+[11:57:40] Scan web: https://wechat-uat.1qianbao.com
+[12:17:53] [ERROR] Timed out task: wechat-uat.1qianbao.com
+[11:19:57] 30 sub process successfully created.
+[12:18:26] Scan report saved to report/yqb_20190312_111953.html

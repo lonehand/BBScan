@@ -1,0 +1,4 @@
+# /static/image/admincp/getcolor.htm  {status=200} {tag="if(fun) eval('parent.'+fun+'"}  {type="html"}
+# Scan with user script: discuz_backup_file.py
+/misc.php?mod=ranklist&type=member	{status=200}
+/forum.php?mod=ajax&action=downremoteimg&message=[img=1,1]http://ssrf.discuz.xo8cqh.ceye.io/1.jpg[/img]		{status=200}

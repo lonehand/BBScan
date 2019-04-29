@@ -9,6 +9,10 @@
 /editor/ckeditor/samples/sample_posteddata.php        {tag="http://ckeditor.com</a>"}
 /fck/editor/dialog/fck_spellerpages/spellerpages/server-scripts/spellchecker.php               {status=200}    {type="html"}  {tag="init_spell()"}
 /fckeditor/editor/dialog/fck_spellerpages/spellerpages/server-scripts/spellcheckder.php        {status=200}    {type="html"}  {tag="init_spell()"}
+/ewebeditor/admin_login.asp	{status=200}
+/ewebeditor/db/ewebeditor.mdb	{status=200}
+/ewebeditor/db/ewebeditor.asa	{status=200}
+/ewebeditor/db/ewebeditor.asp	{status=200}
 
 
 # ueditor SSRF
@@ -16,3 +20,8 @@
 /ueditor/ueditor.config.js         {status=200}  {tag="window.UEDITOR_HOME_URL"}
 /ueditor/php/getRemoteImage.php    {tag="'tip':'"}    {status=200}
 
+#kindeditor upload
+/kindeditor/php/upload_json.php	   {status=200}
+
+#kindeditor directory traversal
+/kindeditor/php/file_manager_json.php   {status=200}

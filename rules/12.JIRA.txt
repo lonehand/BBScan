@@ -1,0 +1,1 @@
+/plugins/servlet/oauth/users/icon-uri?consumerUri=http://jira.xo8cqh.ceye.io	{status=200}
